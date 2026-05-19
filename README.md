@@ -15,3 +15,6 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 npm run web
 
 npx expo start --web
+
+
+https://reactnative.dev/docs/style
